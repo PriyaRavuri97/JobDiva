@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- custom_button_background.xml -->
+    <shape xmlns:android="http://schemas.android.com/apk/res/android"
+        android:shape="rectangle">
+
+        <!-- Background color of the button -->
+
+
+        <!-- Corner radius to make the button rounded -->
+        <corners android:radius="8dp" />
+
+        <!-- Optionally, add stroke to the button -->
+        <!--
+        <stroke
+            android:width="2dp"
+            android:color="@color/button_stroke_color" />
+        -->
+
+    </shape>
+
+</selector>

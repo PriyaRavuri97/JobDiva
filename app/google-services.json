@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "63907995564",
+    "firebase_url": "https://jobdiva-11faa-default-rtdb.firebaseio.com",
+    "project_id": "jobdiva-11faa",
+    "storage_bucket": "jobdiva-11faa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63907995564:android:9b3947edb95d521e5f6409",
+        "android_client_info": {
+          "package_name": "com.example.jobdiva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaPPP8XBggnS3sm7a2RgPKwL7IZMOF2q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
